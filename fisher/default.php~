@@ -1,3 +1,0 @@
-<?php
-$myusername=$_POST['myusername'];
-$mypassword=$_POST['mypassword']; 
